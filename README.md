@@ -49,7 +49,7 @@ Les données utilisées comprennent :
 - Satisfaction client par commande
 - Ventes par date (jour / mois / année)
 
-### Visualisations avancées :
+## o-o Visualisations avancées :
 - Carte : ventes par pays / région
 - Graphique à bulles : ventes par segment
 - Graphique à double axe : ventes vs quantités
