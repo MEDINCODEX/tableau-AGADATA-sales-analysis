@@ -76,7 +76,7 @@ Les données utilisées comprennent :
 ---
 
 ## 🛠️ Outils utilisés
-- Tableau Desktop / Tableau Public
+- Tableau Public
 - Données CSV / Excel
 
 ---
